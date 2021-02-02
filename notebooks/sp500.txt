@@ -1,0 +1,2525 @@
+1
+Apple Inc.
+AAPL
+IT
+3.911126
+2
+Microsoft Corporation
+MSFT
+IT
+3.082336
+3
+Amazon.com Inc.
+AMZN
+Интернет
+2.688036
+4
+Facebook Inc. Class A
+FB
+Интернет
+1.835431
+5
+JPMorgan Chase & Co.
+JPM
+Банки
+1.707639
+6
+Berkshire Hathaway Inc. Class B
+BRK.B
+Финансы
+1.703224
+7
+Johnson & Johnson
+JNJ
+Здоровье
+1.527487
+8
+Alphabet Inc. Class C
+GOOG
+Интернет
+1.454123
+9
+Alphabet Inc. Class A
+GOOGL
+Интернет
+1.437765
+10
+Exxon Mobil Corporation
+XOM
+Энергетика
+1.336511
+11
+Bank of America Corporation
+BAC
+Банки
+1.328856
+12
+Wells Fargo & Company
+WFC
+Банки
+1.079804
+13
+Intel Corporation
+INTC
+Полупроводниковая промышленность
+1.025674
+14
+AT&T Inc.
+T
+Телекоммуникации
+0.971587
+15
+Visa Inc. Class A
+V
+Интернет
+0.945739
+16
+Cisco Systems Inc.
+CSCO
+IT
+0.945091
+17
+Chevron Corporation
+CVX
+Энергетика
+0.936155
+18
+UnitedHealth Group Incorporated
+UNH
+Здоровье
+0.930697
+19
+Pfizer Inc.
+PFE
+Фармацевтика
+0.927105
+20
+Home Depot Inc.
+HD
+Производство оборудования
+0.881609
+21
+Procter & Gamble Company
+PG
+Производство средств по уходу
+0.859707
+22
+Verizon Communications Inc.
+VZ
+Телекоммуникации
+0.849370
+23
+Citigroup Inc.
+C
+Банки
+0.838839
+24
+AbbVie Inc.
+ABBV
+Фармацевтика
+0.807888
+25
+Boeing Company
+BA
+Аэрокосмос и оборона
+0.802259
+26
+Coca-Cola Company
+KO
+Безалкогольные напитки
+0.722960
+27
+Comcast Corporation Class A
+CMCSA
+Кабели и спутники
+0.719269
+28
+Mastercard Incorporated Class A
+MA
+Интернет
+0.712745
+29
+Philip Morris International Inc.
+PM
+Табак
+0.704903
+30
+DowDuPont Inc.
+DWDP
+Производство химикалий
+0.698809
+31
+PepsiCo Inc.
+PEP
+Безалкогольные напитки
+0.684546
+32
+Oracle Corporation
+ORCL
+Программное обеспечение
+0.677823
+33
+Walt Disney Company
+DIS
+Кабели и спутники
+0.663360
+34
+Merck & Co. Inc.
+MRK
+Фармацевтика
+0.640942
+35
+NVIDIA Corporation
+NVDA
+Полупроводниковая промышленность
+0.635137
+36
+3M Company
+MMM
+Промышленные конгломераты
+0.598792
+37
+Amgen Inc.
+AMGN
+Биотехнологии
+0.583865
+38
+International Business Machines Corporation
+IBM
+IT
+0.582487
+39
+Netflix Inc.
+NFLX
+Интернет
+0.578452
+40
+Walmart Inc.
+WMT
+Большие площади
+0.546995
+41
+Altria Group Inc
+MO
+Табак
+0.535019
+42
+McDonald's Corporation
+MCD
+Рестораны
+0.533981
+43
+General Electric Company
+GE
+Промышленные конгломераты
+0.529579
+44
+Honeywell International Inc.
+HON
+Промышленные конгломераты
+0.488470
+45
+Medtronic plc
+MDT
+Здоровье
+0.478165
+46
+Abbott Laboratories
+ABT
+Здоровье
+0.465529
+47
+Texas Instruments Incorporated
+TXN
+Полупроводниковая промышленность
+0.461669
+48
+Bristol-Myers Squibb Company
+BMY
+Здоровье
+0.461135
+49
+Adobe Systems Incorporated
+ADBE
+Программное обеспечение
+0.458341
+50
+Union Pacific Corporation
+UNP
+Железные дороги
+0.456017
+51
+Gilead Sciences Inc.
+GILD
+Биотехнологии
+0.451769
+52
+Booking Holdings Inc.
+BKNG
+Интернет
+0.450252
+53
+Broadcom Limited
+AVGO
+Полупроводниковая промышленность
+0.449513
+54
+Accenture Plc Class A
+ACN
+IT
+0.424988
+55
+United Technologies Corporation
+UTX
+Аэрокосмос и оборона
+0.409066
+56
+Goldman Sachs Group Inc.
+GS
+Банки и инвестиции
+0.398887
+57
+Schlumberger NV
+SLB
+Энергетика
+0.394532
+58
+Caterpillar Inc.
+CAT
+Строительная техника и тяжелое оборудование
+0.386910
+59
+PayPal Holdings Inc
+PYPL
+IT
+0.382384
+60
+QUALCOMM Incorporated
+QCOM
+Полупроводниковая промышленность
+0.371695
+61
+salesforce.com inc.
+CRM
+Интернет
+0.367974
+62
+NIKE Inc. Class B
+NKE
+Одежда, аксессуары и предметы роскоши
+0.367950
+63
+Thermo Fisher Scientific Inc.
+TMO
+Здоровье
+0.365059
+64
+U.S. Bancorp
+USB
+Банки
+0.361358
+65
+Starbucks Corporation
+SBUX
+Рестораны
+0.355688
+66
+Lockheed Martin Corporation
+LMT
+Аэрокосмос и оборона
+0.350988
+67
+Costco Wholesale Corporation
+COST
+Большие площади
+0.346852
+68
+Morgan Stanley
+MS
+Банки и инвестиции
+0.342008
+69
+PNC Financial Services Group Inc.
+PNC
+Региональные банки
+0.324295
+70
+Eli Lilly and Company
+LLY
+Фармацевтика
+0.324182
+71
+United Parcel Service Inc. Class B
+UPS
+Авиаперевозки и логистика
+0.317921
+72
+Time Warner Inc.
+TWX
+Кабели и спутники
+0.316856
+73
+NextEra Energy Inc.
+NEE
+Общественные услуги
+0.307870
+74
+Celgene Corporation
+CELG
+Биотехнологии
+0.305032
+75
+Lowe's Companies Inc.
+LOW
+Оборудование
+0.303700
+76
+BlackRock Inc.
+BLK
+Финансовые услуги
+0.294930
+77
+CVS Health Corporation
+CVS
+Продажа лекарств
+0.293318
+78
+American Express Company
+AXP
+Финансы
+0.290906
+79
+Micron Technology Inc.
+MU
+Полупроводниковая промышленность
+0.289827
+80
+Charter Communications Inc. Class A
+CHTR
+Кабели и спутники
+0.287496
+81
+Charles Schwab Corporation
+SCHW
+Банки и инвестиции
+0.286196
+82
+Mondelez International Inc. Class A
+MDLZ
+Поставки
+0.279997
+83
+Chubb Limited
+CB
+Страхование имущества
+0.278674
+84
+ConocoPhillips
+COP
+Энергетика
+0.273127
+85
+Applied Materials Inc.
+AMAT
+Полупроводниковая промышленность
+0.268442
+86
+Danaher Corporation
+DHR
+Здоровье
+0.266331
+87
+American Tower Corporation
+AMT
+Коммерческая недвижимость
+0.265428
+88
+Colgate-Palmolive Company
+CL
+Товары для дома
+0.263952
+89
+General Dynamics Corporation
+GD
+Аэрокосмос и оборона
+0.262236
+90
+FedEx Corporation
+FDX
+Авиаперевозки и логистика
+0.261836
+91
+Raytheon Company
+RTN
+Аэрокосмос и оборона
+0.259754
+92
+Walgreens Boots Alliance Inc
+WBA
+Продажа лекарств
+0.255903
+93
+Northrop Grumman Corporation
+NOC
+Аэрокосмос и оборона
+0.253271
+94
+Biogen Inc.
+BIIB
+Биотехнологии
+0.252477
+95
+Becton Dickinson and Company
+BDX
+Здоровье
+0.251690
+96
+Anthem Inc.
+ANTM
+Здоровье
+0.250309
+97
+Aetna Inc.
+AET
+Здоровье
+0.244986
+98
+EOG Resources Inc.
+EOG
+Энергетика
+0.243643
+99
+Bank of New York Mellon Corporation
+BK
+Финансовые услуги
+0.242566
+100
+Activision Blizzard Inc.
+ATVI
+IT
+0.242123
+101
+CME Group Inc. Class A
+CME
+Финансы
+0.237350
+102
+Allergan plc
+AGN
+Фармацевтика
+0.231197
+103
+Monsanto Company
+MON
+Удобрения и сельскохозяйственная химия
+0.228809
+104
+Stryker Corporation
+SYK
+Здоровье
+0.226853
+105
+Duke Energy Corporation
+DUK
+Электричество
+0.225558
+106
+Illinois Tool Works Inc.
+ITW
+Промышленное оборудование
+0.223291
+107
+Automatic Data Processing Inc.
+ADP
+Интернет
+0.221887
+108
+TJX Companies Inc
+TJX
+Одежда
+0.220791
+109
+Deere & Company
+DE
+Сельскохозяйственное оборудование
+0.217952
+110
+CSX Corporation
+CSX
+Железные дороги
+0.217524
+111
+S&P Global Inc.
+SPGI
+Финансы
+0.213355
+112
+American International Group Inc.
+AIG
+Страхование имущества
+0.213250
+113
+MetLife Inc.
+MET
+Страхование здоровья
+0.211059
+114
+Cognizant Technology Solutions Corporation Class A
+CTSH
+IT
+0.208265
+115
+Occidental Petroleum Corporation
+OXY
+Энергетика
+0.207915
+116
+Intuitive Surgical Inc.
+ISRG
+Здоровье
+0.207810
+117
+Simon Property Group Inc.
+SPG
+Недвижимость
+0.207369
+118
+General Motors Company
+GM
+Автомобили
+0.205756
+119
+Capital One Financial Corporation
+COF
+Финансы
+0.202727
+120
+Prudential Financial Inc.
+PRU
+Страхование здоровья
+0.198031
+121
+Dominion Energy Inc
+D
+Электричество
+0.197914
+122
+Praxair Inc.
+PX
+Газ
+0.194329
+123
+Emerson Electric Co.
+EMR
+Электрические компоненты и оборудование
+0.193619
+124
+Crown Castle International Corp
+CCI
+Недвижимость
+0.191338
+125
+Intercontinental Exchange Inc.
+ICE
+Финансы
+0.186271
+126
+Vertex Pharmaceuticals Incorporated
+VRTX
+Биотехнологии
+0.186085
+127
+Southern Company
+SO
+Электричество
+0.185132
+128
+BB&T Corporation
+BBT
+Региональные банки
+0.185006
+129
+Express Scripts Holding Company
+ESRX
+Здоровье
+0.184649
+130
+Marsh & McLennan Companies Inc.
+MMC
+Страхование
+0.183813
+131
+Marriott International Inc. Class A
+MAR
+Отели и круизы
+0.183807
+132
+Intuit Inc.
+INTU
+Интернет
+0.182051
+133
+Ford Motor Company
+F
+Автомобили
+0.177862
+134
+eBay Inc.
+EBAY
+Интернет
+0.176145
+135
+Zoetis Inc. Class A
+ZTS
+Фармацевтика
+0.175282
+136
+Norfolk Southern Corporation
+NSC
+Железные дороги
+0.174287
+137
+Valero Energy Corporation
+VLO
+Энергетика
+0.174105
+138
+Cigna Corporation
+CI
+Здоровье
+0.171628
+139
+Phillips 66
+PSX
+Энергетика
+0.171192
+140
+Halliburton Company
+HAL
+Энергетика
+0.170209
+141
+Kraft Heinz Company
+KHC
+Поставки
+0.169562
+142
+Kimberly-Clark Corporation
+KMB
+Товары для дома
+0.169486
+143
+State Street Corporation
+STT
+Финансовые услуги
+0.169467
+144
+Twenty-First Century Fox Inc. Class A
+FOXA
+Издательства
+0.166696
+145
+HP Inc.
+HPQ
+IT
+0.166355
+146
+Constellation Brands Inc. Class A
+STZ
+Вино
+0.165840
+147
+Electronic Arts Inc.
+EA
+IT
+0.164531
+148
+Humana Inc.
+HUM
+Здоровье
+0.164410
+149
+Boston Scientific Corporation
+BSX
+Здоровье
+0.164247
+150
+Target Corporation
+TGT
+Продовольственный магазин
+0.163912
+151
+Travelers Companies Inc.
+TRV
+Страхование имущества
+0.163003
+152
+Delta Air Lines Inc.
+DAL
+Авиакомпания
+0.158667
+153
+Air Products and Chemicals Inc.
+APD
+Газ
+0.157677
+154
+TE Connectivity Ltd.
+TEL
+Электроника
+0.155917
+155
+Illumina Inc.
+ILMN
+Здоровье
+0.155709
+156
+Aon plc
+AON
+Страхование
+0.154428
+157
+Lam Research Corporation
+LRCX
+Полупроводниковая промышленность
+0.153284
+158
+Johnson Controls International plc
+JCI
+Строительство
+0.153247
+159
+Exelon Corporation
+EXC
+Общественные услуги
+0.151704
+160
+Eaton Corp. Plc
+ETN
+Электрические компоненты и оборудование
+0.151596
+161
+Ecolab Inc.
+ECL
+Специальные химикаты
+0.151284
+162
+Aflac Incorporated
+AFL
+Страхование здоровья
+0.151253
+163
+LyondellBasell Industries NV
+LYB
+Специальные химикаты
+0.150990
+164
+Waste Management Inc.
+WM
+Окружающая среда
+0.147742
+165
+Progressive Corporation
+PGR
+Страхование имущества
+0.147077
+166
+Analog Devices Inc.
+ADI
+Полупроводниковая промышленность
+0.146559
+167
+Allstate Corporation
+ALL
+Страхование имущества
+0.146425
+168
+SunTrust Banks Inc.
+STI
+Региональные банки
+0.146258
+169
+Sherwin-Williams Company
+SHW
+Специальные химикаты
+0.144117
+170
+Baxter International Inc.
+BAX
+Здоровье
+0.144031
+171
+Marathon Petroleum Corporation
+MPC
+Энергия
+0.143246
+172
+Prologis Inc.
+PLD
+Недвижимость
+0.142703
+173
+Fidelity National Information Services Inc.
+FIS
+Интернет
+0.141855
+174
+McKesson Corporation
+MCK
+Здоровье
+0.140492
+175
+Southwest Airlines Co.
+LUV
+Авиакомпания
+0.139849
+176
+Estee Lauder Companies Inc. Class A
+EL
+Средства по уходу
+0.137657
+177
+Anadarko Petroleum Corporation
+APC
+Энергия
+0.137517
+178
+American Electric Power Company Inc.
+AEP
+Электричество
+0.136871
+179
+Equinix Inc.
+EQIX
+Недвижимость
+0.134194
+180
+Kinder Morgan Inc Class P
+KMI
+Энергия
+0.133293
+181
+Fiserv Inc.
+FISV
+Интернет
+0.130906
+182
+Western Digital Corporation
+WDC
+IT
+0.128820
+183
+Hewlett Packard Enterprise Co.
+HPE
+IT
+0.127532
+184
+DXC Technology Co.
+DXC
+IT
+0.126888
+185
+Autodesk Inc.
+ADSK
+Программное обеспечение
+0.126026
+186
+PPG Industries Inc.
+PPG
+Специальные химикаты
+0.125725
+187
+Ross Stores Inc.
+ROST
+Одежда
+0.125689
+188
+Edwards Lifesciences Corporation
+EW
+Здоровье
+0.125254
+189
+General Mills Inc.
+GIS
+Поставки
+0.125097
+190
+Public Storage
+PSA
+Недвижимость
+0.125040
+191
+HCA Healthcare Inc
+HCA
+Здоровье
+0.124784
+192
+Sysco Corporation
+SYY
+Поставки
+0.124301
+193
+M&T Bank Corporation
+MTB
+Региональные банки
+0.122984
+194
+Pioneer Natural Resources Company
+PXD
+Энергия
+0.121363
+195
+Roper Technologies Inc.
+ROP
+Промышленные конгломераты
+0.120934
+196
+Amphenol Corporation Class A
+APH
+Электроника
+0.119915
+197
+T. Rowe Price Group
+TROW
+Финансовые услуги
+0.119912
+198
+Discover Financial Services
+DFS
+Финансы
+0.118997
+199
+Moody's Corporation
+MCO
+Финансы
+0.118944
+200
+Yum! Brands Inc.
+YUM
+Рестораны
+0.117516
+201
+Red Hat Inc.
+RHT
+IT
+0.116775
+202
+Sempra Energy
+SRE
+Общественные услуги
+0.116651
+203
+Carnival Corporation
+CCL
+Отели и круизы
+0.116145
+204
+Synchrony Financial
+SYF
+Финансы
+0.115590
+205
+Alexion Pharmaceuticals Inc.
+ALXN
+Биотехнологиии
+0.114611
+206
+Weyerhaeuser Company
+WY
+Недвижимость
+0.113557
+207
+Regeneron Pharmaceuticals Inc.
+REGN
+Биотехнологии
+0.110119
+208
+Corning Inc
+GLW
+Электроника
+0.109848
+209
+Cummins Inc.
+CMI
+Промышленное оборудование
+0.106617
+210
+Archer-Daniels-Midland Company
+ADM
+Сельскохозяйственные продукты
+0.106402
+211
+Freeport-McMoRan Inc.
+FCX
+Медь
+0.105289
+212
+Aptiv PLC
+APTV
+Автомобили
+0.103154
+213
+Monster Beverage Corporation
+MNST
+Безалкогольные напитки
+0.102710
+214
+American Airlines Group Inc.
+AAL
+Авиакомпании
+0.102510
+215
+V.F. Corporation
+VFC
+Одежда, аксессуары и предметы роскоши
+0.101967
+216
+Fifth Third Bancorp
+FITB
+Региональный банк
+0.101813
+217
+Parker-Hannifin Corporation
+PH
+Промышленное оборудование
+0.101748
+218
+Public Service Enterprise Group Inc
+PEG
+Электричество
+0.101100
+219
+Rockwell Automation Inc.
+ROK
+Электрические компоненты и оборудование
+0.101041
+220
+Fortive Corp.
+FTV
+Промышленное оборудование
+0.100949
+221
+Stanley Black & Decker Inc.
+SWK
+Бытовая техника
+0.100755
+222
+Ameriprise Financial Inc.
+AMP
+Финансовые услуги
+0.100441
+223
+ONEOK Inc.
+OKE
+Энергия
+0.100262
+224
+Zimmer Biomet Holdings Inc.
+ZBH
+Здоровье
+0.100000
+225
+PACCAR Inc
+PCAR
+Строительная техника и тяжелое оборудование
+0.099668
+226
+Consolidated Edison Inc.
+ED
+Электричество
+0.099057
+227
+KeyCorp
+KEY
+Региональные банки
+0.098724
+228
+Dollar General Corporation
+DG
+Продовольственные магазины
+0.098437
+229
+Northern Trust Corporation
+NTRS
+Финансовые услуги
+0.098403
+230
+Williams Companies Inc.
+WMB
+Энергия
+0.097554
+231
+PG&E Corporation
+PCG
+Общественные услуги
+0.097164
+232
+Microchip Technology Incorporated
+MCHP
+Полупроводниковая промышленность
+0.097020
+233
+Regions Financial Corporation
+RF
+Региональные банки
+0.096829
+234
+Agilent Technologies Inc.
+A
+Здоровье
+0.096150
+235
+Cardinal Health Inc.
+CAH
+Здоровье
+0.096087
+236
+Mylan N.V.
+MYL
+Фармацевтика
+0.096047
+237
+International Paper Company
+IP
+Оберточная бумага
+0.095795
+238
+Citizens Financial Group Inc.
+CFG
+Региональные банки
+0.095254
+239
+Tyson Foods Inc. Class A
+TSN
+Поставки
+0.095174
+240
+Ingersoll-Rand Plc
+IR
+Промышленное оборудование
+0.094400
+241
+Dollar Tree Inc.
+DLTR
+Продовольственный магазин
+0.094299
+242
+Concho Resources Inc.
+CXO
+Энергия
+0.094051
+243
+AvalonBay Communities Inc.
+AVB
+Недвижимость
+0.093484
+244
+Xcel Energy Inc.
+XEL
+Общественные услуги
+0.093185
+245
+Rockwell Collins Inc.
+COL
+Аэрокосмос и оборона
+0.093106
+246
+Willis Towers Watson Public Limited Company
+WLTW
+Страхование
+0.092062
+247
+Equity Residential
+EQR
+Недвижимость
+0.091876
+248
+Digital Realty Trust Inc.
+DLR
+Недвижимость
+0.091567
+249
+Royal Caribbean Cruises Ltd.
+RCL
+Отели и круизы
+0.091426
+250
+Dr Pepper Snapple Group Inc.
+DPS
+Безалкогольные напитки
+0.091326
+251
+Kroger Co.
+KR
+Поставки
+0.090839
+252
+Nucor Corporation
+NUE
+Сталь
+0.090767
+253
+O'Reilly Automotive Inc.
+ORLY
+Специализированные магазины
+0.090315
+254
+Paychex Inc.
+PAYX
+Интернет
+0.090257
+255
+Skyworks Solutions Inc.
+SWKS
+Полупроводниковая промышленность
+0.087274
+256
+SBA Communications Corp. Class A
+SBAC
+Недвижимость
+0.086442
+257
+Newmont Mining Corporation
+NEM
+Золото
+0.085971
+258
+Edison International
+EIX
+Электричество
+0.085237
+259
+Welltower Inc.
+WELL
+Недвижимость
+0.084259
+260
+Cerner Corporation
+CERN
+Здоровье
+0.083865
+261
+Hartford Financial Services Group Inc.
+HIG
+Страхование имущества
+0.082032
+262
+Align Technology Inc.
+ALGN
+Здоровье
+0.081973
+263
+Boston Properties Inc.
+BXP
+Недвижимость
+0.081314
+264
+WEC Energy Group Inc
+WEC
+Электричество
+0.080946
+265
+Xilinx Inc.
+XLNX
+Полупроводниковая промышленность
+0.080636
+266
+Harris Corporation
+HRS
+IT
+0.079842
+267
+CBS Corporation Class B
+CBS
+Аудиовизуализация
+0.079673
+268
+KLA-Tencor Corporation
+KLAC
+Полупроводниковая промышленность
+0.079583
+269
+PPL Corporation
+PPL
+Электричество
+0.079553
+270
+United Continental Holdings Inc.
+UAL
+Авиакомпании
+0.079048
+271
+Global Payments Inc.
+GPN
+IT
+0.078895
+272
+MGM Resorts International
+MGM
+Игры и казино
+0.078242
+273
+Best Buy Co. Inc.
+BBY
+Компьютеры и электроника в розницу
+0.077050
+274
+AMETEK Inc.
+AME
+Электрические компоненты и оборудование
+0.076473
+275
+DTE Energy Company
+DTE
+Общественные услуги
+0.076330
+276
+Ventas Inc.
+VTR
+Недвижимость
+0.075889
+277
+IDEXX Laboratories Inc.
+IDXX
+Здоровье
+0.075800
+278
+AutoZone Inc.
+AZO
+Специализированные магазины
+0.075651
+279
+IHS Markit Ltd.
+INFO
+Исследования
+0.075200
+280
+Eversource Energy
+ES
+Общественные услуги
+0.075016
+281
+Motorola Solutions Inc.
+MSI
+IT
+0.074780
+282
+Laboratory Corporation of America Holdings
+LH
+Здоровье
+0.074582
+283
+NetApp Inc.
+NTAP
+Интернет
+0.074004
+284
+Centene Corporation
+CNC
+Здоровье
+0.073882
+285
+Huntington Bancshares Incorporated
+HBAN
+Региональные банки
+0.073804
+286
+Comerica Incorporated
+CMA
+Банки
+0.073683
+287
+Seagate Technology PLC
+STX
+IT
+0.073366
+288
+Kellogg Company
+K
+Страхование
+0.073194
+289
+Omnicom Group Inc
+OMC
+Реклама
+0.073157
+290
+Devon Energy Corporation
+DVN
+Энергия
+0.072717
+291
+WestRock Co.
+WRK
+Оберточная бумага
+0.072204
+292
+CenturyLink Inc.
+CTL
+Телекоммуникации
+0.072134
+293
+Lincoln National Corporation
+LNC
+Финансы
+0.072109
+294
+Symantec Corporation
+SYMC
+Программное обеспечение
+0.071626
+295
+Waters Corporation
+WAT
+Здоровье
+0.071414
+296
+Clorox Company
+CLX
+Товары для дома
+0.070580
+297
+AmerisourceBergen Corporation
+ABC
+Здоровье
+0.070371
+298
+Principal Financial Group Inc.
+PFG
+Страхование жизни и здоровья
+0.070332
+299
+Incyte Corporation
+INCY
+Биотехнологии
+0.070102
+300
+Hilton Worldwide Holdings Inc
+HLT
+Отели и круизы
+0.069853
+301
+Fastenal Company
+FAST
+Строительство
+0.069636
+302
+Lennar Corporation Class A
+LEN
+Индивидуальное строительство
+0.069163
+303
+Verisk Analytics Inc
+VRSK
+Исследования
+0.068714
+304
+Twenty-First Century Fox Inc. Class B
+FOX
+Издания
+0.068119
+305
+L3 Technologies Inc.
+LLL
+Аэрокосмос и оборона
+0.067903
+306
+Eastman Chemical Company
+EMN
+Служба поддержки
+0.067738
+307
+Vulcan Materials Company
+VMC
+Строительная техника и тяжелое оборудование
+0.067413
+308
+Mettler-Toledo International Inc.
+MTD
+Здоровье
+0.067203
+309
+Republic Services Inc.
+RSG
+Окружающая среда
+0.066994
+310
+E*TRADE Financial Corporation
+ETFC
+Банки и инвестиции
+0.066616
+311
+Conagra Brands Inc.
+CAG
+Страхование
+0.066326
+312
+Textron Inc.
+TXT
+Аэрокосмос и оборота
+0.066200
+313
+Mohawk Industries Inc.
+MHK
+Оборудование
+0.066172
+314
+United Rentals Inc.
+URI
+Торговля и дистрибуция
+0.066085
+315
+Dover Corporation
+DOV
+Промышленное оборудование
+0.066084
+316
+Essex Property Trust Inc.
+ESS
+Недвижимость
+0.065861
+317
+IQVIA Holdings Inc
+IQV
+Здоровье
+0.065176
+318
+D.R. Horton Inc.
+DHI
+Индивидуальное строительство
+0.063845
+319
+Cintas Corporation
+CTAS
+Разнообразные медиауслуги
+0.063510
+320
+Total System Services Inc.
+TSS
+Интернет
+0.063014
+321
+J. M. Smucker Company
+SJM
+Поставка
+0.062967
+322
+Tapestry Inc.
+TPR
+Одежда, аксессуары и предметы роскоши
+0.062833
+323
+XL Group Ltd
+XL
+Страхование имущества
+0.062787
+324
+Wynn Resorts Limited
+WYNN
+Игры и казино
+0.062644
+325
+Molson Coors Brewing Company Class B
+TAP
+Пивоваренный завод
+0.062643
+326
+Equifax Inc.
+EFX
+Исследования
+0.062543
+327
+Noble Energy Inc.
+NBL
+Энергия
+0.062003
+328
+FirstEnergy Corp.
+FE
+Электричество
+0.061563
+329
+Ball Corporation
+BLL
+Металл и стекло
+0.061490
+330
+Realty Income Corporation
+O
+Недвижимость
+0.061320
+331
+Quest Diagnostics Incorporated
+DGX
+Здоровье
+0.060762
+332
+W.W. Grainger Inc.
+GWW
+Промышленное оборудование
+0.060757
+333
+American Water Works Company Inc.
+AWK
+Государственная служба водоснабжения
+0.060706
+334
+TransDigm Group Incorporated
+TDG
+Аэрокосмос и оборона
+0.060652
+335
+Hershey Company
+HSY
+Страхование
+0.060348
+336
+ANSYS Inc.
+ANSS
+Программное обеспечение
+0.060121
+337
+CBRE Group Inc. Class A
+CBG
+Недвижимость
+0.060071
+338
+Andeavor
+ANDV
+Энергия
+0.059950
+339
+National Oilwell Varco Inc.
+NOV
+Энергия
+0.059567
+340
+Loews Corporation
+L
+Финансы
+0.059511
+341
+Xylem Inc.
+XYL
+Промышленное оборудование
+0.059110
+342
+Invesco Ltd.
+IVZ
+Финансовые услуги
+0.058923
+343
+ResMed Inc.
+RMD
+Здоровье
+0.058790
+344
+Brown-Forman Corporation Class B
+BF.B
+Вино
+0.058420
+345
+Host Hotels & Resorts Inc.
+HST
+Отели
+0.058357
+346
+Newell Brands Inc
+NWL
+Хозтовары
+0.058325
+347
+Entergy Corporation
+ETR
+Электричество
+0.058286
+348
+Citrix Systems Inc.
+CTXS
+Интернет
+0.057912
+349
+Cboe Global Markets Inc
+CBOE
+Финансы
+0.057269
+350
+Genuine Parts Company
+GPC
+Специализированные магазины
+0.057188
+351
+Masco Corporation
+MAS
+Строительство
+0.057071
+352
+Expedia Inc.
+EXPE
+Интернет
+0.056972
+353
+GGP Inc.
+GGP
+Недвижимость
+0.056663
+354
+Apache Corporation
+APA
+Энергия
+0.056564
+355
+DENTSPLY SIRONA Inc.
+XRAY
+Здоровье
+0.056462
+356
+Martin Marietta Materials Inc.
+MLM
+Стройматериалы
+0.056205
+357
+TechnipFMC Plc
+FTI
+Энергия
+0.056131
+358
+Synopsys Inc.
+SNPS
+Программное обеспечение
+0.055861
+359
+McCormick & Company Incorporated
+MKC
+Страхование
+0.055577
+360
+Ameren Corporation
+AEE
+Общественные услуги
+0.054752
+361
+Church & Dwight Co. Inc.
+CHD
+Товары для дома
+0.054670
+362
+Franklin Resources Inc.
+BEN
+Финансовые услуги
+0.054665
+363
+EQT Corporation
+EQT
+Энергия
+0.054541
+364
+C.H. Robinson Worldwide Inc.
+CHRW
+Авиаперевозки и логистика
+0.054512
+365
+Baker Hughes a GE Company Class A
+BHGE
+Энергия
+0.054489
+366
+Hess Corporation
+HES
+Энергия
+0.054267
+367
+Arthur J. Gallagher & Co.
+AJG
+Страхование
+0.053974
+368
+Akamai Technologies Inc.
+AKAM
+Интернет
+0.053540
+369
+Raymond James Financial Inc.
+RJF
+Банки и инвестиции
+0.053235
+370
+Marathon Oil Corporation
+MRO
+Энергия
+0.052418
+371
+Wyndham Worldwide Corporation
+WYN
+Отели и круизы
+0.052338
+372
+Cabot Oil & Gas Corporation
+COG
+Энергия
+0.051319
+373
+CMS Energy Corporation
+CMS
+Общественные услуги
+0.051272
+374
+Alexandria Real Estate Equities Inc.
+ARE
+Недвижимость
+0.051186
+375
+Ulta Beauty Inc
+ULTA
+Специализированный магазин
+0.051140
+376
+Whirlpool Corporation
+WHR
+Бытовая техника
+0.050981
+377
+LKQ Corporation
+LKQ
+Распределение
+0.050417
+378
+Huntington Ingalls Industries Inc.
+HII
+Аэрокосмос и оборона
+0.049705
+379
+Darden Restaurants Inc.
+DRI
+Рестораны
+0.049586
+380
+Varian Medical Systems Inc.
+VAR
+Здоровье
+0.049557
+381
+Vornado Realty Trust
+VNO
+Недвижимость
+0.049484
+382
+CarMax Inc.
+KMX
+Специализированные магазины
+0.049342
+383
+Kansas City Southern
+KSU
+Железные дороги
+0.049339
+384
+Expeditors International of Washington Inc.
+EXPD
+Авиаперевозки и логистика
+0.049234
+385
+Pentair plc
+PNR
+Промышленное оборудование
+0.049128
+386
+CenterPoint Energy Inc.
+CNP
+Общественные услуги
+0.048836
+387
+Viacom Inc. Class B
+VIAB
+Кабели и спутники
+0.048743
+388
+PVH Corp.
+PVH
+Одежда, аксессуары и предметы роскоши
+0.048656
+389
+Unum Group
+UNM
+Страхование жизни и здоровья
+0.048572
+390
+Perrigo Co. Plc
+PRGO
+Фармацевтика
+0.048330
+391
+Cooper Companies Inc.
+COO
+Здоровье
+0.048215
+392
+Gartner Inc.
+IT
+IT
+0.048125
+393
+Albemarle Corporation
+ALB
+Специальные химикаты
+0.048067
+394
+CA Inc.
+CA
+IT
+0.047949
+395
+Kohl's Corporation
+KSS
+Продовольственный магазин
+0.047491
+396
+Packaging Corporation of America
+PKG
+Оберточная бумага
+0.047475
+397
+Zions Bancorporation
+ZION
+Региональные банки
+0.047414
+398
+Cincinnati Financial Corporation
+CINF
+Страхование имущества
+0.047304
+399
+Norwegian Cruise Line Holdings Ltd.
+NCLH
+Отели и круизы
+0.047304
+400
+Alliance Data Systems Corporation
+ADS
+IT
+0.047225
+401
+Cadence Design Systems Inc.
+CDNS
+Программное обеспечение
+0.047194
+402
+Nielsen Holdings Plc
+NLSN
+Исследования
+0.047111
+403
+International Flavors & Fragrances Inc.
+IFF
+Специальные химикаты
+0.046689
+404
+Affiliated Managers Group Inc.
+AMG
+Финансовые услуги
+0.046619
+405
+FMC Corporation
+FMC
+Удобрения и сельскохозяйственная химия
+0.046569
+406
+Universal Health Services Inc. Class B
+UHS
+Здоровье
+0.046280
+407
+DaVita Inc.
+DVA
+Здоровье
+0.046010
+408
+Hologic Inc.
+HOLX
+Здоровье
+0.045811
+409
+Extra Space Storage Inc.
+EXR
+Недвижимость
+0.045739
+410
+Henry Schein Inc.
+HSIC
+Здоровье
+0.045414
+411
+VeriSign Inc.
+VRSN
+Интернет
+0.045119
+412
+Everest Re Group Ltd.
+RE
+Финансы
+0.045114
+413
+J.B. Hunt Transport Services Inc.
+JBHT
+Гужевая перевозка
+0.045048
+414
+HCP Inc.
+HCP
+Недвижимость
+0.044831
+415
+Qorvo Inc.
+QRVO
+Полупроводниковая промышленность
+0.044538
+416
+Arconic Inc.
+ARNC
+Аэрокосмос и оборота
+0.044465
+417
+L Brands Inc.
+LB
+Одежда
+0.043800
+418
+Tiffany & Co.
+TIF
+Одежда, аксессуары и предметы роскоши
+0.043560
+419
+Avery Dennison Corporation
+AVY
+Оберточная бумага
+0.043036
+420
+Hasbro Inc.
+HAS
+Товары для отдыха
+0.042862
+421
+BorgWarner Inc.
+BWA
+Автомобили
+0.042751
+422
+Mid-America Apartment Communities Inc.
+MAA
+Недвижимость
+0.042327
+423
+SL Green Realty Corp.
+SLG
+Недвижимость
+0.042221
+424
+Juniper Networks Inc.
+JNPR
+IT
+0.042124
+425
+Nasdaq Inc.
+NDAQ
+Финансы
+0.041985
+426
+IPG Photonics Corporation
+IPGP
+Электроника
+0.041275
+427
+A. O. Smith Corporation
+AOS
+Строительство
+0.040646
+428
+Mosaic Company
+MOS
+Удобрения и сельскохозяйственная химия
+0.040439
+429
+Torchmark Corporation
+TMK
+Страхование здоровья
+0.040324
+430
+F5 Networks Inc.
+FFIV
+IT
+0.040313
+431
+Western Union Company
+WU
+Интернет
+0.039851
+432
+Fortune Brands Home & Security Inc.
+FBHS
+Строительство
+0.039820
+433
+Michael Kors Holdings Ltd
+KORS
+Одежда, аксессуары и предметы роскоши
+0.039791
+434
+Advanced Micro Devices Inc.
+AMD
+Полупроводниковая промышленность
+0.039530
+435
+UDR Inc.
+UDR
+Недвижимость
+0.039311
+436
+CF Industries Holdings Inc.
+CF
+Удобрения и сельскохозяйственная химия
+0.039281
+437
+Interpublic Group of Companies Inc.
+IPG
+Издания
+0.039101
+438
+DISH Network Corporation Class A
+DISH
+Кабели и спутники
+0.039052
+439
+NRG Energy Inc.
+NRG
+Энергия
+0.038936
+440
+Macy's Inc
+M
+Универмаги
+0.038371
+441
+Duke Realty Corporation
+DRE
+Недвижимость
+0.038154
+442
+Coty Inc. Class A
+COTY
+Средства по уходу
+0.038077
+443
+Hormel Foods Corporation
+HRL
+Страхование
+0.038073
+444
+Alliant Energy Corp
+LNT
+Электричество
+0.037786
+445
+Iron Mountain Inc.
+IRM
+Недвижимость
+0.037021
+446
+Snap-on Incorporated
+SNA
+Бытовая техника
+0.036724
+447
+Cimarex Energy Co.
+XEC
+Энергия
+0.036481
+448
+Regency Centers Corporation
+REG
+Недвижимость
+0.036457
+449
+Advance Auto Parts Inc.
+AAP
+Автомобили
+0.036329
+450
+Federal Realty Investment Trust
+FRT
+Недвижимость
+0.035802
+451
+Campbell Soup Company
+CPB
+Страхование
+0.035795
+452
+Alaska Air Group Inc.
+ALK
+Авиакомпании
+0.035353
+453
+Pinnacle West Capital Corporation
+PNW
+Общественные услуги
+0.035278
+454
+PerkinElmer Inc.
+PKI
+Здоровье
+0.035273
+455
+Tractor Supply Company
+TSCO
+Специализированные магазины
+0.034901
+456
+PulteGroup Inc.
+PHM
+Индивидуальное строительство
+0.034864
+457
+Chipotle Mexican Grill Inc.
+CMG
+Рестораны
+0.034512
+458
+Allegion PLC
+ALLE
+Строительство
+0.034368
+459
+Sealed Air Corporation
+SEE
+Оберточная бумага
+0.034126
+460
+Leucadia National Corporation
+LUK
+Финансы
+0.033604
+461
+Fluor Corporation
+FLR
+Строительство и инжиниринг
+0.033340
+462
+Harley-Davidson Inc.
+HOG
+Мотоциклы
+0.033282
+463
+NiSource Inc
+NI
+Общественные услуги
+0.032959
+464
+Robert Half International Inc.
+RHI
+Человеческие ресурсы
+0.032111
+465
+Hanesbrands Inc.
+HBI
+Одежда, аксессуары и предметы роскоши
+0.031130
+466
+Gap Inc.
+GPS
+Одежда
+0.030582
+467
+Jacobs Engineering Group Inc.
+JEC
+Строительство и инжиниринг
+0.030581
+468
+Goodyear Tire & Rubber Company
+GT
+Шины и резина
+0.030077
+469
+Discovery Communications Inc. Class C
+DISCK
+Кабели и спутники
+0.029828
+470
+Garmin Ltd.
+GRMN
+Электроника
+0.029751
+471
+FLIR Systems Inc.
+FLIR
+Электроника
+0.029319
+472
+AES Corporation
+AES
+Энергия
+0.029234
+473
+People's United Financial Inc.
+PBCT
+Финансы
+0.029120
+474
+Helmerich & Payne Inc.
+HP
+Энергия
+0.029014
+475
+Xerox Corporation
+XRX
+IT
+0.028042
+476
+CSRA Inc.
+CSRA
+IT
+0.028032
+477
+Acuity Brands Inc.
+AYI
+Электрические компоненты и оборудование
+0.027331
+478
+Macerich Company
+MAC
+Недвижимость
+0.026989
+479
+Leggett & Platt Incorporated
+LEG
+Оборудование
+0.026464
+480
+Apartment Investment and Management Company Class A
+AIV
+Недвижимость
+0.026069
+481
+News Corporation Class A
+NWSA
+Издания
+0.025875
+482
+Ralph Lauren Corporation Class A
+RL
+Одежда, аксессуары и предметы роскоши
+0.025798
+483
+Kimco Realty Corporation
+KIM
+Недвижимость
+0.025715
+484
+Nordstrom Inc.
+JWN
+Универмаги
+0.024604
+485
+Flowserve Corporation
+FLS
+Промышленное оборудование
+0.024125
+486
+H&R Block Inc.
+HRB
+Финансы
+0.023746
+487
+SCANA Corporation
+SCG
+Общественные услуги
+0.023159
+488
+Foot Locker Inc.
+FL
+Одежда и обувь
+0.023017
+489
+Stericycle Inc.
+SRCL
+Окружающая среда
+0.022827
+490
+Quanta Services Inc.
+PWR
+Строительство и инжиниринг
+0.022367
+491
+Brighthouse Financial Inc.
+BHF
+Промышленное оборудование
+0.022352
+492
+Envision Healthcare Corp.
+EVHC
+Здоровье
+0.020913
+493
+Assurant Inc.
+AIZ
+Финансы
+0.020855
+494
+Mattel Inc.
+MAT
+Товары для отдыха
+0.020451
+495
+TripAdvisor Inc.
+TRIP
+Интернет
+0.019991
+496
+Newfield Exploration Company
+NFX
+Энергия
+0.019363
+497
+Discovery Communications Inc. Class A
+DISCA
+Кабели и спутники
+0.015155
+498
+Navient Corp
+NAVI
+Финансы
+0.015009
+499
+Range Resources Corporation
+RRC
+Энергия
+0.014891
+500
+Under Armour Inc. Class A
+UAA
+Одежда, аксессуары и предметы роскоши
+0.012520
+501
+Signet Jewelers Limited
+SIG
+Одежда, аксессуары и предметы роскоши
+0.012181
+502
+Chesapeake Energy Corporation
+CHK
+Энергия
+0.011986
+503
+Under Armour Inc. Class C
+UAA
+Одежда, аксессуары и предметы роскоши
+0.011093
+504
+Patterson Companies Inc.
+PDCO
+Здоровье
+0.008572
+505
+News Corporation Class B
+NWS
+Издание
+0.007684
